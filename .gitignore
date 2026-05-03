@@ -58,3 +58,6 @@ sample_repo/
 
 # Firebase Admin
 serviceAccountKey.json
+
+# Virtual environment
+.venv/
