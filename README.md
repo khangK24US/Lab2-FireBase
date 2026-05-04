@@ -75,3 +75,5 @@ http://localhost:8501
 - Không đẩy file `.streamlit/secrets.toml` lên GitHub.
 - Nếu không cần Google login, vẫn có thể dùng Email/Password.
 - Backend dùng Firebase Auth và Firestore để lưu lịch sử cuộc hội thoại.
+
+https://github.com/user-attachments/assets/fd948b18-ce9e-4450-a6ec-e7b7c786c1e4
